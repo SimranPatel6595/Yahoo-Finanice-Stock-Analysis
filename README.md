@@ -1,4 +1,4 @@
-# Yahoo-Finanice-Stock-Analysis
+# Yahoo Finanice Stock Analysis
 Analysis of Overbought and Oversold Conditions
 
 ## Overview
